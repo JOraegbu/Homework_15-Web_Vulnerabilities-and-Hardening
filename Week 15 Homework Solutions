@@ -1,3 +1,19 @@
 ### Unit 15 Homework - Web Vulnerabilities & Hardening
 
 ## Web Application 1: Your Wish is My Command Injection
+
+### Web Application 1: _Your Wish is My Command Injection_
+
+- [ ] To set-up the environment needed to complete the activity
+
+> Launch Oracle VM VirtualBox Manager and start your Virtual Machine.
+> Start the Terminal in your Virtual Machine.
+- **cd ./Documents/web-vulns && docker-compose up
+- Once the Docker Containers are up, Launch Google Chrome Web Browser
+- Navigate to the following webpage: http://192.168.13.25
+- Login with the following credentials:**
+
+- User name:  admin
+- Password: password
+
+
